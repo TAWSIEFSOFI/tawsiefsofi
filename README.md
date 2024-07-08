@@ -33,7 +33,7 @@
 ###
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css" />
   </a>
 </div>
 
